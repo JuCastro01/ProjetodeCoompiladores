@@ -16,8 +16,6 @@ gcc -g -Og -Wall compilador.c -o compilador
 
 ```
 
-![image](https://github.com/user-attachments/assets/42447fc5-09d8-4492-b620-249a8f2b8b4a)
-
 
 </div>
 
