@@ -11,6 +11,6 @@ if num_1 > num_2:
  set maior to num_1
 elif
  set maior to num_2;
- 
-write(maior) # imprime o maior valor
+
+write(maior)
 end.
